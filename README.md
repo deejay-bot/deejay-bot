@@ -1,21 +1,19 @@
 <h1 align="center">Hi <img src="images/hi.gif" width="25px"> , I'm Deejay
 
-<hr>
-
 ![Views](https://komarev.com/ghpvc/?username=deejay-bot)
 ![Forks](https://img.shields.io/github/forks/deejay-bot/deejay-bot?color=blue)
 ![Stars](https://img.shields.io/github/stars/deejay-bot/deejay-bot?color=gr)
+
+<hr>
 
 <a href="https://deejaybot.tk" align="center">
      <img src="images/deejay-logo.png" alt="logo" />
 </a>
 
-<br>
+<hr>
 
 [![Servers](https://top.gg/api/widget/servers/734590862620753970.svg)](https://top.gg/bot/734590862620753970)
 [![Status](https://top.gg/api/widget/status/734590862620753970.svg?noavatar=true)](https://top.gg/bot/734590862620753970)
-
-<br>
 
 <p><b>Deejay - Music For Every Mood</b></p>
 
