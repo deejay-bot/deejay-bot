@@ -1,5 +1,5 @@
 ## Q1: How do I invite Deejay ?
-#### Ans: from here you can invite all bots of Deejay, Note that you will need to have Manage Server permissions in the server in order to add Deejay Bots !
+#### Ans: [From Here](https://discord.com/oauth2/authorize?client_id=734590862620753970&scope=bot&permissions=6546648896&response_type=code&redirect_uri=https%3A%2F%2Fdiscord.gg%2F4YpXu7bMf9) you can invite all bots of Deejay, Note that you will need to have Manage Server permissions in the server in order to add Deejay Bots !
 
 <hr>
 
@@ -14,7 +14,7 @@
 <hr>
 
 ## Q4: How do I change the settings for Deejay ?
-#### Ans: You can change the settings using the `>help admin` command. This will give you a list of all available options. after this you can just type `>command` to change the desired settings.
+#### Ans: You can view a list of all available settings commands using the `>help admin` command. After this you can just type `>command_name` to change the desired settings.
 
 <hr>
 
@@ -24,8 +24,7 @@
 <hr>
 
 ## Q6: What all kinds of sources can Deejay play ?
-#### Ans: Currently the available options are Youtube (url, search, live stream and playlists) and spotify (artists, albums and songs).
-
+#### Ans: Deejay can play from [700+ different sites](https://ytdl-org.github.io/youtube-dl/supportedsites.html). Including Youtube (url, search, playlists, and live stream), SoundCloud (tracks, playlists, artists, sets), spotify (artists, albums and songs) and vimeo, reverbnation, facebook, discord attachment links also & 700+ more.
 <hr>
 
 ## Q7: How can I see all the commands for Deejay ?
@@ -74,4 +73,4 @@
 <hr>
 
 ## Q17: Can I help testing Deejay ?
-### Ans: Yes! You can report bugs and help us develop and test new functions on the official testing server here
+#### Ans: Yes! You can report bugs and help us develop and test new functions on the official [Support Server](https://discord.gg/4YpXu7bMf9).
