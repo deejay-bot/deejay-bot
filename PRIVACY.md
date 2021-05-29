@@ -24,14 +24,19 @@
 <hr>
 
 ## Who do we share the data with ?
-#### We dont share this Data with any Individual or un-registered Organisation. We only store/share our Data with MongoDB Inc. which is a DataBase company. We currently dont have any way to Host this Data by ourselves so this is essential. This Data is accessible by us only as aclaimed by MongoDB Inc.
+#### We dont share this Data with any Individual or un-registered Organisation. We only store/share our Data with [MongoDB Inc](https://www.mongodb.com). which is a DataBase company. We currently dont have any way to Host this Data by ourselves so this is essential. This Data is accessible by us only as aclaimed by [MongoDB Inc](https://www.mongodb.com).
 
 <hr>
 
 ## How can users contact us regarding their concerns ?
-#### In Case of any concerns/questions the Users can contact Support by Contacting L0SER#8228 or join the Support Server.
+#### In Case of any concerns/questions the Users can contact Support by Contacting [@L0SER#8228](https://discord.com/users/668157292927254587) and joining the [Support Server](https://discord.gg/4YpXu7bMf9).
 
 <hr>
 
 ## How can users have their data removed ?
-##### In Case of any User want their Data removed, He/She can contact Support by Contacting L0SER#8228 or join the Support Server.
+#### In Case of any User want their Data removed, He/She can contact Support by Contacting [L0SER#8228](https://l0ser.is-a.dev) and joining the [Support Server](https://discord.gg/4YpXu7bMf9).
+
+<hr>
+
+## How can a guild have their data removed ?
+#### In Case of any Guild want their Data removed, they can just kick the bot and stop using it. Further any Admin of the guild can contact Support by Contacting [@L0SER#8228](https://l0ser.is-a.dev) and #request-data-deletion
