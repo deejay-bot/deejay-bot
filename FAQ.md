@@ -1,3 +1,8 @@
+# DEEJAY BOTS FREQUENTLY ASKED QUESTIONS (FAQ) AND ANSWERS
+
+<hr>
+<hr>
+
 ## Q1: How do I invite Deejay ?
 #### Ans: [From Here](https://discord.com/oauth2/authorize?client_id=734590862620753970&scope=bot&permissions=6546648896&response_type=code&redirect_uri=https%3A%2F%2Fdiscord.gg%2F4YpXu7bMf9) you can invite all bots of Deejay, Note that you will need to have Manage Server permissions in the server in order to add Deejay Bots !
 
