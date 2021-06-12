@@ -12,9 +12,17 @@
 
 <hr>
 
+<a href="https://botlist.space/bot/734590862620753970?utm_source=bls&utm_medium=widget&utm_campaign=734590862620753970">
+    <img src="https://api.botlist.space/widget/734590862620753970/2">
+</a>
+
+![](https://botlist.space/bot/734590862620753970/badge?property=tag&style=flat&color=brightgreen) ![](https://botlist.space/bot/734590862620753970/badge?property=library&style=flat&color=brightgreen) ![](https://botlist.space/bot/734590862620753970/badge?property=support&style=flat&color=brightgreen)
+
+
 [![Servers](https://top.gg/api/widget/servers/734590862620753970.svg)](https://top.gg/bot/734590862620753970)
 [![Status](https://top.gg/api/widget/status/734590862620753970.svg?noavatar=true)](https://top.gg/bot/734590862620753970)
 
+<hr>
 <p><b>Deejay - Music For Every Mood</b></p>
 
 [![Add Deejay Bot](./images/add-to-discord.png)](https://discord.com/oauth2/authorize?client_id=734590862620753970&scope=bot&permissions=2146958847&response_type=code&redirect_uri=https%3A%2F%2Fdiscord.gg%2F4YpXu7bMf9)
