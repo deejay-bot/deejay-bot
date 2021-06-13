@@ -38,7 +38,7 @@
 <hr>
 
 ## Q8: How do I change the channel that the "start playing" message is sent to ?
-#### Ans: Simple you can just add a song to the queue from a different channel and those messages will be sent there.
+#### Ans: Use `>announce <#new-channel>` this comamnd. Mention the new channel or use the comamnd on the new channel. And those messages will be sent there. Make sure the bot has `"SEND_MESSAGES", "ADD_REACTIONS", "EMBED_LINKS"` permissions on the new channel.
 
 <hr>
 
