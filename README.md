@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="images/hi.gif" width="25px"> , I'm Deejay
+<h1 align="center">Hi <img src="./images/hi.gif" width="25px"> , I'm Deejay
 
 ![Views](https://komarev.com/ghpvc/?username=deejay-bot)
 ![Forks](https://img.shields.io/github/forks/deejay-bot/deejay-bot?color=blue)
@@ -7,7 +7,7 @@
 <hr>
 
 <a href="https://deejaybot.tk" align="center">
-     <img src="images/deejay-logo.png" alt="logo" />
+     <img src="./images/deejay-logo.png" alt="logo" />
 </a>
 
 <hr>
@@ -16,7 +16,7 @@
     <img src="https://api.botlist.space/widget/734590862620753970/2">
 </a>
 
-![](https://botlist.space/bot/734590862620753970/badge?property=tag&style=flat&color=brightgreen) ![](https://botlist.space/bot/734590862620753970/badge?property=library&style=flat&color=brightgreen) ![](https://botlist.space/bot/734590862620753970/badge?property=support&style=flat&color=brightgreen)
+[![Deejay#2424](https://botlist.space/bot/734590862620753970/badge?property=tag&style=flat&color=brightgreen)](https://botlist.space/bot/734590862620753970) ![discord.js](https://botlist.space/bot/734590862620753970/badge?property=library&style=flat&color=brightgreen) [![support server](https://botlist.space/bot/734590862620753970/badge?property=support&style=flat&color=brightgreen)](https://discord.gg/4YpXu7bMf9)
 
 
 [![Servers](https://top.gg/api/widget/servers/734590862620753970.svg)](https://top.gg/bot/734590862620753970)
