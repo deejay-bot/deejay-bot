@@ -13,10 +13,10 @@
 <hr>
 
 <a href="https://botlist.space/bot/734590862620753970?utm_source=bls&utm_medium=widget&utm_campaign=734590862620753970">
-    <img src="https://api.botlist.space/widget/734590862620753970/2">
+    <img src="https://api.discordlist.space/v2/bots/734590862620753970/widget">
 </a>
 
-[![Deejay#2424](https://botlist.space/bot/734590862620753970/badge?property=tag&style=flat&color=brightgreen)](https://botlist.space/bot/734590862620753970) ![discord.js](https://botlist.space/bot/734590862620753970/badge?property=library&style=flat&color=brightgreen) [![support server](https://botlist.space/bot/734590862620753970/badge?property=support&style=flat&color=brightgreen)](https://discord.gg/4YpXu7bMf9)
+[![Deejay#2424](https://img.shields.io/static/v1?label=tag&message=Deejay%232424&color=brightgreen&style=plastic)](https://botlist.space/bot/734590862620753970) [![support server](https://api.discordlist.space/v2/bots/734590862620753970/badge?property=support)](https://discord.gg/4YpXu7bMf9)
 
 
 [![Servers](https://top.gg/api/widget/servers/734590862620753970.svg)](https://top.gg/bot/734590862620753970)
@@ -39,4 +39,4 @@
 - 24/7 online
 - And much more!
 
-</> with ❤️ by [![Owner](https://top.gg/api/widget/owner/734590862620753970.svg?noavatar=true)](https://github.com/l0ser8228)
+[![Owner](https://img.shields.io/static/v1?label=</>%20with%20❤️%20by&message=L0SER%238228&color=brightgreen&style=flat)](https://github.com/L0SER8228)
