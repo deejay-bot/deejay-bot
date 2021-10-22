@@ -15,6 +15,9 @@
 <a href="https://botlist.space/bot/734590862620753970?utm_source=bls&utm_medium=widget&utm_campaign=734590862620753970">
     <img src="https://api.discordlist.space/v2/bots/734590862620753970/widget">
 </a>
+<a href="https://discordz.xyz/bot/734590862620753970">
+    <img src="https://discordz.xyz/api/bot/734590862620753970/widget">
+</a>
 
 [![Deejay#2424](https://img.shields.io/static/v1?label=tag&message=Deejay%232424&color=brightgreen&style=plastic)](https://botlist.space/bot/734590862620753970) [![support server](https://api.discordlist.space/v2/bots/734590862620753970/badge?property=support)](https://discord.gg/4YpXu7bMf9)
 
